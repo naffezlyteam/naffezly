@@ -1,0 +1,10 @@
+To: testuser@example.com
+Subject: Verify your Naffezly account
+
+<p>Hello Test User,</p><p>To verify your email, click <a href="http://localhost/naffezly/verify-email.php?token=70905b353673">here</a>.</p>
+---
+To: resendtest@example.com
+Subject: Verify your Naffezly account
+
+<p>Hello Resend Test,</p><p>To verify your email, click <a href="http://localhost/naffezly/verify-email.php?token=a17791eaf324">here</a>.</p>
+---
